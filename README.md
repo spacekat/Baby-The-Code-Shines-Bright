@@ -1,5 +1,4 @@
-About this TextMate theme
-_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+# About this TextMate theme
 
 The bright pastel color palette is inspired by the lolita dresses of Baby, The Stars Shine Bright.
 
